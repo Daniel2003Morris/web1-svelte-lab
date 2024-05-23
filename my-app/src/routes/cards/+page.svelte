@@ -1,0 +1,1 @@
+<p>browse card collection</p>
