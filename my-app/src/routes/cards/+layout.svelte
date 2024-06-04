@@ -1,2 +1,1 @@
 <slot />
-<p>Cards</p>
