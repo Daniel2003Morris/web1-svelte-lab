@@ -1,5 +1,5 @@
 <script>
-    import Sidebar from "../../components/Sidebar"
+    import Sidebar from "../../components/Sidebar.svelte"
     let navitems = [
         { text: "home", href: "/" },
         { text: "profile image", href: "/profile/profile-image"},
